@@ -1,0 +1,12 @@
+﻿global using MediatR;
+global using Microsoft.Extensions.Configuration;
+global using Microsoft.Extensions.DependencyInjection;
+global using ProlistCompany.Leads.AppServices.Leads.Aceitar;
+global using ProlistCompany.Leads.AppServices.Leads.Obter;
+global using ProlistCompany.Leads.AppServices.Leads.ObterPorStatus;
+global using ProlistCompany.Leads.AppServices.Leads.Recusar;
+global using ProlistCompany.Leads.Infra.Email;
+global using ProlistCompany.Leads.Repository;
+global using ProlistCompany.Leads.Repository.Abstractions;
+global using ProlistCompany.Leads.Services;
+global using ProlistCompany.Leads.Services.Abstractions;

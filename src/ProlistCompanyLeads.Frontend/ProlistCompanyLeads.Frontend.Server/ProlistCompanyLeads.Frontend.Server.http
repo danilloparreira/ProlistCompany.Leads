@@ -1,0 +1,6 @@
+@ProlistCompanyLeads.Frontend.Server_HostAddress = http://localhost:5191
+
+GET {{ProlistCompanyLeads.Frontend.Server_HostAddress}}/leads/
+Accept: application/json
+
+###
