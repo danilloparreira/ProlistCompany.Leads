@@ -29,6 +29,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProlistCompany.Leads.IoC", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ProlistCompany.Leads.Infra.Email", "ProlistCompanyLeads.Infra.Email\ProlistCompany.Leads.Infra.Email.csproj", "{DF5DB6F7-2547-48D4-A770-12A182E0CD30}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{0F1C9A0A-930A-41B0-90A8-2A5E1D422A73}"
+	ProjectSection(SolutionItems) = preProject
+		README.md = README.md
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
